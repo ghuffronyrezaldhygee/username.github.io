@@ -1,11 +1,11 @@
 # Site settings
 title: Clean Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: ghuff_rony@yahoo.com
+copyright_name: Gee/SoalUts/T.informatika
+description: "Soal Pengantar Teknologi Informasi (PTI).Teknik Informatika Unila"
 baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
+url: "http://1615061008.com"
 twitter_username: SBootstrap
 github_username:  davidtmiller
 facebook_username:  StartBootstrap
@@ -22,4 +22,3 @@ permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
-gems: [jekyll-paginate, jekyll-feed]
